@@ -1,5 +1,7 @@
 # MODNet Background Remover
 
+[![Try a demo on Replicate](https://replicate.com/pollinations/modnet/badge)](https://replicate.com/pollinations/modnet)
+
 ## Application
 
 A deep learning approach to remove background and adding new background image
